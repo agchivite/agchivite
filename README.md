@@ -5,9 +5,4 @@ UPGRADING MY VISUAL PROFILE...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Sbytmacke/Sbytmacke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <figure><embed src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/e55c07a2-73e0-418c-8838-907be96adb9e.svg"></embed></figure>
