@@ -25,4 +25,4 @@ Due to this situation I did a big chance of my life entering in this new world o
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbytmacke&show_icons=true&locale=en&layout=compact" alt="sbytmacke" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en" alt="sbytmacke" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en" alt="sbytmacke" /></p>
