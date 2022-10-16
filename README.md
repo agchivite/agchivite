@@ -2,12 +2,12 @@
 
 ![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
 
-<img align="right" alt="Octocat" width="400" src="https://cdn.discordapp.com/attachments/886222897851531265/1030413977840259092/octocat-1665739845145.png">
-
 <h1 align="left">📚 A passionate student from Spain</h1>
 
 - 🏫 Studing in <a href="https://www.iesluisvives.es/">IES Luis Vives</a>
 - 🔊 Speaking Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺
+
+<img align="right" alt="Octocat" width="400" src="https://cdn.discordapp.com/attachments/886222897851531265/1030413977840259092/octocat-1665739845145.png">
 
 <h1 align="left">✅ My Objetives</h1>
 
