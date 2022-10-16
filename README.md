@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate student from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sbytmacke&label=Profile%20views&color=0e75b6&style=flat" alt="sbytmacke" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sbytmacke" target="blank"><img src="https://img.shields.io/twitter/follow/sbytmacke?logo=twitter&style=for-the-badge" alt="sbytmacke" /></a> </p>
+- 📫 How to reach me **Sbytmacke@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sbytmacke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbytmacke" height="30" width="40" /></a>
+- 📄 About me:
+<p align="center">
+I started studing an <a href="https://www.urjc.es/universidad/campus/campus-de-mostoles/649-ingenieria-ambiental">ambiental engineering</a> in 
+<a href="https://www.urjc.es/">URJC</a> at second year they teach me a simple concepts of programming with Exccel and organizate a Data Base, for that I got a big surprise to that leason and I started to study more personally... Due to this situation I did a big chance of my life entering in this new world of code!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbytmacke&show_icons=true&locale=en&layout=compact" alt="sbytmacke" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en" alt="sbytmacke" /></p>
-
