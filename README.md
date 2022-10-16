@@ -9,6 +9,8 @@
 - 📫 How to reach me: **Sbytmacke@gmail.com**
 - 🐦 Twitter Soon...
 
+<img align="right" alt="Octocat" width="400" src="https://cdn.discordapp.com/attachments/886222897851531265/1030413977840259092/octocat-1665739845145.png">
+
 <h1 align="left">✅ My Objetives</h1>
 
 - [ ] 🌐 Make a Personal WebSite
