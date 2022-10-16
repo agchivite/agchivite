@@ -8,8 +8,6 @@
 
 - 🏫 Studing in <a href="https://www.iesluisvives.es/">IES Luis Vives</a>
 - 🔊 Speaking Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺
-- 📫 How to reach me: **Sbytmacke@gmail.com**
-- 🐦 Twitter Soon...
 
 <h1 align="left">🚀 My technologies and Tools</h1>
 
@@ -19,6 +17,11 @@
 
 - [ ] 🌐 Make a Personal WebSite
 - [ ] 🎮 Make an Indie Game
+
+<h1 align="left">😊 Contact me</h1>
+
+- 📫 How to reach me: **Sbytmacke@gmail.com**
+- 🐦 Twitter Soon...
 
 <h1 align="left">📄 About my start</h1>
 <p align="left">
