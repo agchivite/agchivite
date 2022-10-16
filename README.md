@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate student from Spain</h3>
-(img align="right" alt="Coding" width="400" src="https://tenor.com/es/ver/donut-code-computer-gif-11570094")
+(img align="right" alt="Coding" width="400" src="https://media.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif")
+
 
 - 🔊 Speaking Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺
 
