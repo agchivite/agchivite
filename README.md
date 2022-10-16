@@ -20,7 +20,7 @@
 
 <h1 align="left">😊 Contact me</h1>
 
-- 📫 How to reach me: **Sbytmacke@gmail.com**
+- 📫 Email: **Sbytmacke@gmail.com**
 - 🐦 Twitter Soon...
 
 <h1 align="left">📄 About my start</h1>
