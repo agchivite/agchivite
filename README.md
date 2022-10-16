@@ -34,7 +34,7 @@ At second year they teach me simples concepts of programming with Exccel and org
 </p>
 
 <p aligne="left">
-Due to this situation I did a big chance of my life entering in this new world of code!
+Due to this situation I did a big change of my life entering in this new world of code!
 </p>
 
 <h1 align="left">✨ My Hobbies</h1>
