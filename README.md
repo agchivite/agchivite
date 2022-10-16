@@ -7,6 +7,7 @@
 - 🏫 Studing in <a href="https://www.iesluisvives.es/">IES Luis Vives</a>
 - 🔊 Speaking Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺
 - 📫 How to reach me: **Sbytmacke@gmail.com**
+- 🐦 Twitter Soon...
 
 <h1 align="left">✅ My Objetives</h1>
 
