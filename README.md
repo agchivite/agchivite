@@ -1,8 +1,10 @@
-![MasterHead](https://www.uhnresearch.ca/sites/default/files/www_banner/PM_banner_code_dark.jpg)
+![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate student from Spain</h3>
 
--    ANOTHER INFO
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/9kA5.gif">
+
+
 
 - 🔊 Speaking Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺
 
