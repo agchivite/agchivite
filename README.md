@@ -43,13 +43,15 @@ Due to this situation I did a big change of my life entering in this new world o
 
 <h1 align="left">🌠 My Activity</h1>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en" alt="sbytmacke" />
+<p align ="left">
+    <img src = "https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en" width = 400>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbytmacke&show_icons=true&locale=en&layout=compact" alt="sbytmacke" />
+<p align ="left">
+    <img src = "https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/ad3187ed-8994-435e-8bf0-0d458263a1b3.svg" width = 400>
 </p>
 
-<p align ="center">
-    <img src = "https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/ad3187ed-8994-435e-8bf0-0d458263a1b3.svg">
+<p align ="left">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=sbytmacke&show_icons=true&locale=en&layout=compact" width = 400>
 </p>
 
