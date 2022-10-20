@@ -49,3 +49,7 @@ Due to this situation I did a big change of my life entering in this new world o
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbytmacke&show_icons=true&locale=en&layout=compact" alt="sbytmacke" />
 </p>
 
+<p align ="center">
+    <img src = "https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/ad3187ed-8994-435e-8bf0-0d458263a1b3.svg">
+</p>
+
