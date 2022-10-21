@@ -1,6 +1,9 @@
 <h1 align="left">Hi 🙂, I'm Angel, future CEO of Sbytmacke</h1>
 
+<hr>
 <img align="right" alt="Octocat" src="imagenes/encabezado/Captura de pantalla 2022-10-21 085129.jpg">
+<hr>
+<hr>
 
 <h1 align="left">📚 A passionate student from Spain</h1>
 
