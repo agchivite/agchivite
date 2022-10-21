@@ -1,6 +1,6 @@
 <h1 align="left">Hi 🙂, I'm Angel, future CEO of Sbytmacke</h1>
 
-![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
+<img align="right" alt="Octocat" src="imagenes/encabezado/Captura de pantalla 2022-10-21 085129.jpg">
 
 <h1 align="left">📚 A passionate student from Spain</h1>
 
