@@ -58,3 +58,6 @@ Due to this situation I did a big change of my life entering in this new world o
     <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=sbytmacke&show_icons=true&locale=en&layout=compact" width = 400>
 </p>
 
+<p align ="left">
+    <img src = "https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/3e3e9edb-ea69-46a8-b3f8-c790fc563076.svg"  width = 1000>
+</p>
