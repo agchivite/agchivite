@@ -47,10 +47,10 @@ Due to this situation I did a big change of my life entering in this new world o
 <h1 align="left">🌠 My Activity</h1>
 
 <p align ="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en" height="150">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=sbytmacke&show_icons=true&locale=en&layout=compact" height="150">
+    <img src = "https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en" height="165">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=sbytmacke&show_icons=true&locale=en&layout=compact" height="165">
 </p>
 
-<p align ="left">
-    <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/733e433a-8bf1-4adb-b357-bdb7cf1aad4b.svg"  height = 800>
+<p align ="center">
+    <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/733e433a-8bf1-4adb-b357-bdb7cf1aad4b.svg" width="830" height = 550>
 </p>
