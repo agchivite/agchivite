@@ -56,5 +56,5 @@ Due to this situation I did a big change of my life entering in this new world o
 </p>
 
 <p align ="center>
-    <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/38dc1def-36e7-46f5-95ff-7e41148a75fc.svg" width="830" height = 550>
+    <img src="" width="830" height = 550>
 </p>
