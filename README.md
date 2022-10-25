@@ -54,3 +54,7 @@ Due to this situation I did a big change of my life entering in this new world o
 <p align ="center">
     <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/34848249-fb77-48e9-8ea4-b9f672ed1de7.svg" width="830" height = 550>
 </p>
+
+<p align ="center>
+    <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/38dc1def-36e7-46f5-95ff-7e41148a75fc.svg" width="830" height = 550>
+</p>
