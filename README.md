@@ -55,6 +55,6 @@ Due to this situation I did a big change of my life entering in this new world o
     <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/c9379c61-9a02-45ff-b852-d12f01ec6802.svg" width="830" height = 550>
 </p>
 
-<p align ="center>
-    <img src="" width="830" height = 550>
+<p align ="center">
+    <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/264badf6-8d85-42d4-8661-d09de3ef4613.svg" width="830" height = 550>
 </p>
