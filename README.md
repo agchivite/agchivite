@@ -52,7 +52,7 @@ Due to this situation I did a big change of my life entering in this new world o
 </p>
 
 <p align ="center">
-    <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/34848249-fb77-48e9-8ea4-b9f672ed1de7.svg" width="830" height = 550>
+    <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/c9379c61-9a02-45ff-b852-d12f01ec6802.svg" width="830" height = 550>
 </p>
 
 <p align ="center>
