@@ -15,7 +15,7 @@
 <h1 align="left">✅ My Objetives</h1>
 
 - [ ] 🌐 Make a Personal WebSite
-- [ ] 🎮 Make an Indie Game
+- [ ] 🎮 Make a Roguelike Deckbuilder
 
 <h1 align="left">😊 Contact me</h1>
 
