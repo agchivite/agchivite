@@ -17,7 +17,8 @@
 - [ ] 🌐 Create a Personal WebSite
 - [ ] 💲 Learn Solidity
 - [ ] 🎮 Build a Roguelike Deckbuilder
-- [ ] 📖 Make an Indie Visual-Novel History (Otome) with my Wife´s Art @Lyannis
+- [ ] 📖 Make an Indie Visual-Novel History (Otome) with my Wife´s Art 
+[Twitter@Lyannis](https://twitter.com/LyannisVT)
 
 <h1 align="left">😊 Contact me</h1>
 
