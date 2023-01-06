@@ -14,9 +14,9 @@
 
 <h1 align="left">✅ My Objetives</h1>
 
-- [ ] 🌐 Make a Personal WebSite
+- [ ] 🌐 Create a Personal WebSite
 - [ ] 💲 Learn Solidity
-- [ ] 🎮 Make a Roguelike Deckbuilder
+- [ ] 🎮 Build a Roguelike Deckbuilder
 - [ ] 📖 Make an Indie Visual-Novel History (Otome) with my Wife´s Art
 
 <h1 align="left">😊 Contact me</h1>
