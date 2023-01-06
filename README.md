@@ -17,7 +17,7 @@
 - [ ] 🌐 Make a Personal WebSite
 - [ ] 💲 Learn Solidity
 - [ ] 🎮 Make a Roguelike Deckbuilder
-- [ ] 📖 Make an Indie Visual-Novel History (Otome) with my Girl and her beautiful design-art
+- [ ] 📖 Make an Indie Visual-Novel History (Otome) with my Wife´s Art
 
 <h1 align="left">😊 Contact me</h1>
 
