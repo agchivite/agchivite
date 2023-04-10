@@ -23,7 +23,7 @@
 <h1 align="left">😊 Contact me</h1>
 
 - 📫 Email: **Sbytmacke@gmail.com**
-- 📘 LinkdIn:  **linkedin.com/in/angel-chivite-14b0a0162**
+- 📘 LinkdIn:  <a href="linkedin.com/in/angel-chivite-14b0a0162">link</a>
 
 <h1 align="left">🚀 My technologies and Tools</h1>
 
