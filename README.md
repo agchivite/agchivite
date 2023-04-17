@@ -50,8 +50,7 @@ Due to this situation I did a big change of my life entering in this new world o
 <h1 align="left">🌠 My Activity</h1>
 
 <p align ="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en" height="165">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=sbytmacke&show_icons=true&locale=en&layout=compact" height="165">
+    <img src = "https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en">
 </p>
 
 <p align ="center">
