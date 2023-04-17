@@ -12,6 +12,8 @@
 
 <img align="right" alt="Octocat" width="400" src="https://cdn.discordapp.com/attachments/886222897851531265/1030413977840259092/octocat-1665739845145.png">
 
+&nbsp;
+
 <h1 align="left">✅ My Objetives</h1>
 
 - [ ] 🌐 Create a Personal WebSite
@@ -20,14 +22,27 @@
 - [ ] 📖 Make an Indie Visual-Novel History (Otome) with my Wife´s Art 
 [Twitter@Lyannis](https://twitter.com/LyannisVT)
 
+&nbsp;
+
 <h1 align="left">😊 Contact me</h1>
 
 - 📫 Email: **Sbytmacke@gmail.com**
 - 📘 LinkdIn:  <a href="https://www.linkedin.com/in/angel-chivite-14b0a0162/">Angel Chivite</a>
 
-<h1 align="left">🚀 My technologies and Tools</h1>
+&nbsp;
 
-<p align="left"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<h1 align="left">🚀 My Technologies & Tools</h1>
+
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/>
+</p>
+
+&nbsp;
 
 <h1 align="left">📄 About my start</h1>
 <p align="left">
@@ -43,9 +58,13 @@ At second year they teach me simples concepts of programming with Exccel and org
 Due to this situation I did a big change of my life entering in this new world of code!
 </p>
 
+&nbsp;
+
 <h1 align="left">✨ My Hobbies</h1>
 
 - Coming soon...
+
+&nbsp;
 
 <h1 align="left">🌠 My Activity</h1>
 
