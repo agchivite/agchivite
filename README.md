@@ -1,8 +1,14 @@
-<h1 align="left">Hi 🙂, I´m future CEO of Sbytmacke.  </h1>
-<hr>
-<h1>Check my web -> <a href="https://sbytmacke.github.io/Curriculum/">Prueba</a> </h1>
+# Hi 🙂, I'm future CEO of Sbytmacke
+
+Feel free to explore [my CV](https://sbytmacke.github.io/Curriculum/).
+
+<div align="left">
+  <img src="./imagenes/cv.png" alt="web-cv" width="100" height="100">
+</div>
+
 <!--<img align="right" alt="Octocat" src="imagenes/encabezado/Captura de pantalla 2022-10-21 085129.jpg">-->
-<hr>
+
+&nbsp;
 
 <h1 align="left">📚 A passionate student from Spain</h1>
 
