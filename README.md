@@ -1,6 +1,6 @@
 # Hi 🙂, I'm future CEO of Sbytmacke
 
-Feel free to explore [my CV](https://sbytmacke.github.io/Curriculum/).
+Feel free to explore [my web CV](https://sbytmacke.github.io/Curriculum/).
 
 <div align="left">
   <img src="./imagenes/cv.png" alt="web-cv" width="100" height="100">
