@@ -23,11 +23,11 @@
 
 <h1 align="left">✅ My Objetives</h1>
 
-- [ ] 🌐 Create a Personal WebSite
-- [ ] 💲 Learn Solidity
-- [ ] 🎮 Build a Roguelike Deckbuilder
-- [ ] 📖 Make an Indie Visual-Novel History (Otome) with my Wife´s Art 
+- [x] 🌐 Create a Personal Web
+- [ ] 🎮 Build an Indie Game
+- [ ] 📖 Make a Project with my Wife´s Art 
 [Twitter@Lyannis](https://twitter.com/LyannisVT)
+- [ ] 💲 Forge a little company *"Sbytmacke"*
 
 &nbsp;
 
