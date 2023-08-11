@@ -14,7 +14,7 @@
 
 &nbsp;
 
-<h1 align="left">📚 Passionate student from Spain</h1>
+<h1 align="left">📚 Student from Spain</h1>
 
 <p>🌍 Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺 GER🇩🇪</p>
 <p>🏫 Studing in <a href="https://www.iesluisvives.es/">IES Luis Vives</a></p>
