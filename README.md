@@ -2,9 +2,9 @@
 
 Feel free to explore [my web CV](https://sbytmacke.github.io/Curriculum/).
 
-<div align="left">
+<a align="left" href="https://sbytmacke.github.io/Curriculum/">
   <img src="./imagenes/cv.png" alt="web-cv" width="100" height="100">
-</div>
+</a>
 
 <!--<img align="right" alt="Octocat" src="imagenes/encabezado/Captura de pantalla 2022-10-21 085129.jpg">-->
 
