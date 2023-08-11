@@ -1,14 +1,13 @@
-<h1 align="left">Hi 🙂, I'm Angel, future CEO of Sbytmacke</h1>
-
+<h1 align="left">Hi 🙂, I´m future CEO of Sbytmacke.  </h1>
 <hr>
-<img align="right" alt="Octocat" src="imagenes/encabezado/Captura de pantalla 2022-10-21 085129.jpg">
-<hr>
+<h1>Check my web -> <a href="https://sbytmacke.github.io/Curriculum/">Prueba</a> </h1>
+<!--<img align="right" alt="Octocat" src="imagenes/encabezado/Captura de pantalla 2022-10-21 085129.jpg">-->
 <hr>
 
 <h1 align="left">📚 A passionate student from Spain</h1>
 
 - 🏫 Studing in <a href="https://www.iesluisvives.es/">IES Luis Vives</a>
-- 🔊 Speaking Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺
+- 🌍 Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺 GER🇩🇪
 
 <img align="right" alt="Octocat" width="400" src="https://cdn.discordapp.com/attachments/886222897851531265/1030413977840259092/octocat-1665739845145.png">
 
