@@ -1,10 +1,12 @@
-# Hi 🙂, I'm future CEO of Sbytmacke
+<h1 align="center">Hi 🙂, I'm future CEO of Sbytmacke</h1>
 
-Feel free to explore [my web CV](https://sbytmacke.github.io/Curriculum/).
+<div align="center">
+  <p>Feel free to explore <a href="https://sbytmacke.github.io/Curriculum/">my web CV</a>.</p>
 
-<a align="left" href="https://sbytmacke.github.io/Curriculum/">
-  <img src="./imagenes/cv.png" alt="web-cv" width="100" height="100">
-</a>
+  <a align="center" href="https://sbytmacke.github.io/Curriculum/">
+    <img src="./imagenes/cv.png" alt="web-cv" width="100" height="100">
+  </a>
+</div>
 
 <!--<img align="right" alt="Octocat" src="imagenes/encabezado/Captura de pantalla 2022-10-21 085129.jpg">-->
 
