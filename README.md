@@ -15,8 +15,8 @@
 <div align="center">
 <h1 align="center">📚 A passionate student from Spain</h1>
 
-<p>- 🏫 Studing in <a href="https://www.iesluisvives.es/">IES Luis Vives</a></p>
-<p>- 🌍 Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺 GER🇩🇪</p>
+<p>🌍 Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺 GER🇩🇪</p>
+<p>🏫 Studing in <a href="https://www.iesluisvives.es/">IES Luis Vives</a></p>
 
 <img align="right" alt="Octocat" width="400" src="https://cdn.discordapp.com/attachments/886222897851531265/1030413977840259092/octocat-1665739845145.png">
 </div>
