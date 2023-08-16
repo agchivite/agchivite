@@ -3,7 +3,7 @@
 <div align="center">
   <p>Feel free to explore <a href="https://sbytmacke.github.io/Curriculum/">my web CV</a>.</p>
 
-  <a align="center" href="https://sbytmacke.github.io/Curriculum/">
+  <a align="center" href="https://sbytmacke.github.io/curriculum-web/">
     <img src="./imagenes/cv.png" alt="web-cv" width="100" height="100">
   </a>
 </div>
