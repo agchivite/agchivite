@@ -21,7 +21,7 @@
 
 &nbsp;
 
-<h1 align="left">✅ My Objetives</h1>
+<h1 align="left">✅ Objetives</h1>
 
 - [x] 🌐 Create a Personal Web
 - [ ] 🎮 Build an Indie Game
@@ -31,14 +31,7 @@
 
 &nbsp;
 
-<h1 align="left">😊 Contact me</h1>
-
-- 📫 Email: **Sbytmacke@gmail.com**
-- 📘 LinkdIn:  <a href="https://www.linkedin.com/in/angel-chivite-14b0a0162/">Angel Chivite</a>
-
-&nbsp;
-
-<h1 align="left">🚀 My Technologies & Tools</h1>
+<h1 align="left">🚀 Technologies & Tools</h1>
 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -52,14 +45,21 @@
 
 &nbsp;
 
-<h1 align="left">📄 About my start</h1>
+<h1 align="left">😊 Contact me</h1>
+
+- 📫 Email: **Sbytmacke@gmail.com**
+- 📘 LinkdIn:  <a href="https://www.linkedin.com/in/angel-chivite-14b0a0162/">Angel Chivite</a>
+
+&nbsp;
+
+<h1 align="left">📄 My peculiar start</h1>
 <p align="left">
 I started studing an <a href="https://www.urjc.es/universidad/campus/campus-de-mostoles/649-ingenieria-ambiental">ambiental engineering</a> in 
 <a href="https://www.urjc.es/">URJC</a> to save this world against pollution🌍♻️💚 
 </p>
 
 <p aligne="left">
-At second year they teach me simples concepts of programming with Exccel and organizate a Data Base, for that I got a big surprise to that assignature and I started to study more independently HTML, CSS and Python... 
+At second year they teach me simples concepts of programming with Exccel and organizate a Data Base, for that I got a big surprise to that assignature and I started to study more independently...
 </p>
 
 <p aligne="left">
@@ -74,15 +74,15 @@ Due to this situation I did a big change of my life entering in this new world o
 
 &nbsp;
 
-<h1 align="left">🌠 My Activity</h1>
+<h1 align="left">🌠 Activity</h1>
 
-<p align ="center">
+<!--<p align ="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=sbytmacke&show_icons=true&locale=en">
-</p>
+</p>-->
 
-<p align ="center">
+<!--<p align ="center">
     <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/c9379c61-9a02-45ff-b852-d12f01ec6802.svg" width="830" height = 550>
-</p>
+</p>-->
 
 <p align ="center">
     <img src="https://wakatime.com/share/@c8c9e80a-05ec-4350-bf2e-c6c38ca30b85/264badf6-8d85-42d4-8661-d09de3ef4613.svg" width="830" height = 550>
