@@ -24,6 +24,7 @@
 <h1 align="left">✅ Objetives</h1>
 
 - [x] 🌐 Create a Personal Web
+- [ ] 📫 App to centralize shipping
 - [ ] 🎮 Build an Indie Game
 - [ ] 📖 Make a Project with my Wife´s Art 
 [Twitter@Lyannis](https://twitter.com/LyannisVT)
