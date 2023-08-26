@@ -55,8 +55,8 @@
 
 <h1 align="left">📄 My peculiar start</h1>
 <p align="left">
-I started studing an <a href="https://www.urjc.es/universidad/campus/campus-de-mostoles/649-ingenieria-ambiental">ambiental engineering</a> in 
-<a href="https://www.urjc.es/">URJC</a> to save this world against pollution🌍♻️💚 
+I started studing an ambiental engineering in 
+UPM to save this world against pollution🌍♻️💚 
 </p>
 
 <p aligne="left">
