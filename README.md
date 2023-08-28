@@ -55,8 +55,8 @@
 
 <h1 align="left">📄 My peculiar start</h1>
 <p align="left">
-I started studing an ambiental engineering in 
-UPM to save this world against pollution🌍♻️💚 
+I started studing <a href="https://www.upm.es/Estudiantes/Estudios_Titulaciones/EstudiosOficialesGrado/ArticulosRelacionados?fmt=detail&prefmt=articulo&id=dcd68778b9bc6210VgnVCM10000009c7648a____">forest engineering</a> at 
+<a href="https://www.upm.es/">UPM</a> to save this world against pollution🌍♻️💚 
 </p>
 
 <p aligne="left">
