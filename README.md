@@ -21,13 +21,12 @@
 
 &nbsp;
 
-<h1 align="left">✅ Objetives</h1>
+<h1 align="left">✅ Currently</h1>
 
 - 🌐 Create a Personal Web
 - 📫 App to centralize shipping
 - 🎮 Build an Indie Game
-- 📖 Make a Project with my Wife´s Art 
-[Twitter@Lyannis](https://twitter.com/LyannisVT)
+- 📖 Make a Project with my Wife´s Art [Twitter@Lyannis](https://twitter.com/LyannisVT)
 - 💲 Forge a little company *"Sbytmacke"*
 
 &nbsp;
