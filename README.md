@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙂, I'm future CEO of Sbytmacke</h1>
+<h1 align="center">Hi 🙂, I'm Angel, future CEO of Sbytmacke</h1>
 
 <div align="center">
   <p>Feel free to explore <a href="https://sbytmacke.github.io/curriculum-web/">my web CV</a>.</p>
