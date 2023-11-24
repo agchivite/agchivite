@@ -23,17 +23,17 @@
 
 <h1 align="left">✅ Currently</h1>
 
-- 💾 Looking to iniciate in Big Data
+- 💾 Looking to initiate in Big Data
 - 🔮 Building an app to compare prices
 - 💲 Forging a small company _"LunarLoom"_
-- 🎮 Making an Indie Game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/LyannisVT)
+- 🎮 Making an Indie Game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/_lyannis_)
 
 &nbsp;
 
 <h1 align="left">🚀 Technologies & Tools</h1>
-
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,git,mysql,html,css,javascript,docker,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=kotlin,ktor,androidstudio,firebase,java,spring,cs,dotnet," /><br>
+    <img src="https://skillicons.dev/icons?i=py,r,react,mongodb,hibernate,mysql,docker,git" />
 </div>
 
 
