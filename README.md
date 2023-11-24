@@ -4,7 +4,7 @@
   <p>Feel free to explore <a href="https://sbytmacke.github.io/curriculum-web/">my web CV</a>.</p>
 
   <a align="center" href="https://sbytmacke.github.io/curriculum-web/">
-    <img src="./imagenes/cv.png" alt="web-cv" width="100" height="100">
+    <img src="./imagenes/cv-update.png" alt="web-cv" width="100" height="100">
   </a>
 </div>
 
@@ -25,9 +25,8 @@
 
 - 💾 Looking to iniciate in Big Data
 - 🔮 Building an app to compare prices
-- 💲 Forging a small company *"LunarLoom"*
+- 💲 Forging a small company _"LunarLoom"_
 - 🎮 Making an Indie Game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/LyannisVT)
-
 
 &nbsp;
 
@@ -48,7 +47,7 @@
 <h1 align="left">😊 Contact me</h1>
 
 - 📫 Email: **Sbytmacke@gmail.com**
-- 📘 LinkdIn:  <a href="https://www.linkedin.com/in/angel-chivite-14b0a0162/">Angel Chivite</a>
+- 📘 LinkdIn: <a href="https://www.linkedin.com/in/angel-chivite-14b0a0162/">Angel Chivite</a>
 
 &nbsp;
 
