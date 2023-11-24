@@ -24,7 +24,7 @@
 <h1 align="left">✅ Currently</h1>
 
 - 💾 Looking to iniciate in Big Data
-- 🔮 Building App to compare prices
+- 🔮 Building an app to compare prices
 - 💲 Forging a small company *"LunarLoom"*
 - 🎮 Making an Indie Game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/LyannisVT)
 
