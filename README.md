@@ -21,11 +21,11 @@
 
 &nbsp;
 
-<h1 align="left">✅ Working on</h1>
+<h1 align="left">✅ Currently</h1>
 
-- 💾 I´m looking to iniciate in Big Data
-- 🔮 App to compare prices
-- 💲 Building a small company *"LunarLoom"*
+- 💾 Looking to iniciate in Big Data
+- 🔮 Building App to compare prices
+- 💲 Forging a small company *"LunarLoom"*
 - 🎮 Making an Indie Game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/LyannisVT)
 
 
