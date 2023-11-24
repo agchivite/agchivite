@@ -21,13 +21,13 @@
 
 &nbsp;
 
-<h1 align="left">✅ Currently</h1>
+<h1 align="left">✅ Working on</h1>
 
-- 🌐 Create a Personal Web
-- 📫 App to centralize shipping
-- 🎮 Build an Indie Game
-- 📖 Make a Project with my Wife´s Art [Twitter@Lyannis](https://twitter.com/LyannisVT)
-- 💲 Forge a little company *"Sbytmacke"*
+- 💾 I´m looking to iniciate in Big Data
+- 🔮 App to compare prices
+- 💲 Building a small company *"LunarLoom"*
+- 🎮 Making an Indie Game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/LyannisVT)
+
 
 &nbsp;
 
