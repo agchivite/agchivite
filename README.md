@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙂, I'm Angel, future CEO of Sbytmacke</h1>
+<h1 align="center">Hi 🙂, I'm Angel</h1>
 
 <div align="center">
   <p>Feel free to explore <a href="https://sbytmacke.github.io/curriculum-web/">my web CV</a>.</p>
@@ -23,12 +23,12 @@
 
 <h1 align="left">✅ Objetives</h1>
 
-- [x] 🌐 Create a Personal Web
-- [ ] 📫 App to centralize shipping
-- [ ] 🎮 Build an Indie Game
-- [ ] 📖 Make a Project with my Wife´s Art 
+- 🌐 Create a Personal Web
+- 📫 App to centralize shipping
+- 🎮 Build an Indie Game
+- 📖 Make a Project with my Wife´s Art 
 [Twitter@Lyannis](https://twitter.com/LyannisVT)
-- [ ] 💲 Forge a little company *"Sbytmacke"*
+- 💲 Forge a little company *"Sbytmacke"*
 
 &nbsp;
 
