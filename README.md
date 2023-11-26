@@ -24,7 +24,7 @@
 <h1 align="left">✅ Currently</h1>
 
 - 💾 Looking to initiate in Big Data
-- 🔮 Building an app to compare prices
+- 🔮 Building an app to compare prices [Github@JiaChengZhang14](https://github.com/JiaChengZhang14)
 - 💲 Forging a small company _"LunarLoom"_
 - 🎮 Making an Indie Game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/_lyannis_)
 
@@ -32,7 +32,7 @@
 
 <h1 align="left">🚀 Technologies & Tools</h1>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=kotlin,ktor,androidstudio,firebase,java,spring,cs,dotnet," /><br>
+    <img src="https://skillicons.dev/icons?i=kotlin,ktor,androidstudio,firebase,java,spring,cs,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=py,r,react,mongodb,hibernate,mysql,docker,git" />
 </div>
 
