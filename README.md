@@ -26,7 +26,7 @@
 - 💾 Looking to initiate in Big Data
 - 🔮 Building an app to compare prices with [JiaChengZhang14](https://github.com/JiaChengZhang14)
 - 💲 Forging a small company _"LunarLoom"_
-- 🎮 Making an Indie Game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/_lyannis_)
+- 🎮 Making an indie-game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/_lyannis_)
 
 &nbsp;
 
