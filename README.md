@@ -10,7 +10,7 @@
 
 <!--<img align="right" alt="encabezado" src="imagenes/encabezado/Captura de pantalla 2022-10-21 085129.jpg">-->
 
-<img align="right" alt="Octocat" width="400" src="https://cdn.discordapp.com/attachments/886222897851531265/1030413977840259092/octocat-1665739845145.png">
+<!--<img align="right" alt="Octocat" width="400" src="https://cdn.discordapp.com/attachments/886222897851531265/1030413977840259092/octocat-1665739845145.png">-->
 
 &nbsp;
 
