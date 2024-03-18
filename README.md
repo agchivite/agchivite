@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙂, I'm Angel</h1>
 
 <div align="center">
-  <p>Feel free to explore <a href="https://sbytmacke.github.io/curriculum-web/">my web CV</a>.</p>
+  <p>Feel free to explore <a href="https://sbytmacke.github.io/curriculum-web/">my web portfolio</a>.</p>
 
   <a align="center" href="https://sbytmacke.github.io/curriculum-web/">
     <img src="./imagenes/cv-web.png" alt="web-cv" width="100" height="100">
