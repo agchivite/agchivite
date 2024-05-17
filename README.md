@@ -32,8 +32,8 @@
 
 <h1 align="left">🚀 Technologies & Tools</h1>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=kotlin,ktor,androidstudio,firebase,java,spring,cs,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=py,r,react,mongodb,js,mysql,docker,git" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,java,raspberrypi,cs,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=py,react,mongodb,js,mysql,docker,git" />
 </div>
 
 
