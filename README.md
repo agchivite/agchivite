@@ -14,18 +14,16 @@
 
 &nbsp;
 
-<h1 align="left">📚 Student from Spain</h1>
+<!--<h1 align="left">📚 Student from Spain</h1>
 
 <p>🌍 Languages: ESP🇪🇸 ENG🇺🇸 RU🇷🇺 GER🇩🇪</p>
 <p>🏫 Studing at <a href="https://www.iesluisvives.es/">IES Luis Vives</a></p>
 
-&nbsp;
+&nbsp;-->
 
 <h1 align="left">✅ Currently</h1>
 
 - 💾 Looking to initiate in Big Data
-- 🔮 Building an app to compare prices with [JiaChengZhang14](https://github.com/JiaChengZhang14)
-- 💲 Forging a small company _"LunarLoom"_
 - 🎮 Making an indie-game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/_lyannis_)
 
 &nbsp;
