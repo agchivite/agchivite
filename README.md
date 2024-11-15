@@ -23,7 +23,8 @@
 
 <h1 align="left">✅ Currently</h1>
 
-- 💾 Looking to initiate in Big Data
+- 🌐 Working as a Network Technician at Zelenza
+- 💾 Studying a specialization in Big Data and Artificial Intelligence
 - 🎮 Making an indie-game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/_lyannis_)
 
 &nbsp;
