@@ -1,7 +1,7 @@
-<h1 align="center">Hi 🙂, I'm Angel</h1>
+<h1 align="center">Feel free to explore <a href="https://agchivite.github.io/curriculum-web/">my web portfolio</a></h1>
 
 <div align="center">
-  <p>Feel free to explore <a href="https://agchivite.github.io/curriculum-web/">my web portfolio</a>.</p>
+  <!--<p>Feel free to explore <a href="https://agchivite.github.io/curriculum-web/">my web portfolio</a>.</p>-->
 
   <a align="center" href="https://agchivite.github.io/curriculum-web/">
     <img src="./imagenes/cv-web.png" alt="web-cv" width="100" height="100">
