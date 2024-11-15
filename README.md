@@ -41,7 +41,7 @@
 <h1 align="left">😊 Contact me</h1>
 
 - 📫 Email: **ag.chivite@gmail.com**
-- 📘 LinkdIn: <a href="https://www.linkedin.com/in/angel-maroto-chivite-14b0a0162/">Angel Chivite</a>
+- 📘 LinkdIn: <a href="https://www.linkedin.com/in/angel-maroto-chivite-14b0a0162/">Angel Maroto Chivite</a>
 
 &nbsp;
 
