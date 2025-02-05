@@ -26,7 +26,7 @@
 - 🌐 Working as a Network Technician at [Zelenza](https://zelenza.com/)
 - ✈ Previously worked as a Fullstack Software Trainee at [Airbus](https://www.airbus.com/en)  
 - 💾 Studying a specialization in Big Data and Artificial Intelligence at [CIDEAD](https://www.educacionfpydeportes.gob.es/mc/cidead/centro-integrado.html) 
-- 🎮 Making an indie-game with my Wife´s Art [Twitter@Lyannis](https://twitter.com/_lyannis_)
+- 🎮 Making an indie-game with my Wife´s Art [Twitter@Lyannis](https://x.com/dearLyannis)
 
 &nbsp;
 
